@@ -1,6 +1,6 @@
 # Hi, I'm Amaro 👋
 
-**Postdoctoral Researcher · Baylor College of Medicine**
+**Postdoctoral Researcher · CLR Lab · Baylor College of Medicine**
 
 I develop computational tools for quantitative fluorescence microscopy, with a focus on biosensor imaging and neurodegeneration.
 

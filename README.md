@@ -38,6 +38,16 @@ I develop computational tools for quantitative fluorescence microscopy, with a f
 
 ---
 
+#### [Animal_SQL](https://github.com/amarosep/Animal_SQL)
+> Full-stack web platform for managing research animal colonies across racks, cages, and breeding groups.
+
+- Visual 10×7 cage grid per rack with real-time occupancy and breeding status
+- FastAPI backend + PostgreSQL + React/Vite frontend, fully containerized with Docker Compose
+- Breeding wizard, statistics dashboard, animal history log, and CSV import/export
+- Designed for research vivarium management with multi-rack, multi-genotype colony tracking
+
+---
+
 ### Publications
 
 <!-- Add publications here -->
